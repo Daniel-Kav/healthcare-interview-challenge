@@ -1,0 +1,22 @@
+# Byte-code files
+*.pyc
+
+# Database file
+db.sqlite3
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Collected static files
+staticfiles/
+
+# User uploaded media
+media/
+
+# Environment variables file
+.env 
