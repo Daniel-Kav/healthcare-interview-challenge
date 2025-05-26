@@ -26,7 +26,7 @@ A Django-based healthcare appointment scheduling system that allows patients to 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Daniel-Kav/healthcare-interview-challenge
 cd healthcare-interview-challenge
 ```
 
